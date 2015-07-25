@@ -17,6 +17,6 @@ Parameters:
 
 *  Your location (use google maps API)
 *  Distance radius (floor of closest location)
-**  google maps api (will this give it to us in closest first - order?)
+  *  google maps api (will this give it to us in closest first - order?)
 *  Types of alcohol you don't drink (how will we interface with LCBO api to determine this?)
 
