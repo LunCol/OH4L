@@ -7,6 +7,7 @@ An algorithmic implemented of the traveling salesman problem augmented with addi
 Implemented in C++.
 
 Goals:
+
 1. Most drunk
 2. Least time
 3. Least Money
