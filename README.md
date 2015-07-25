@@ -20,3 +20,6 @@ Parameters:
   *  google maps api (will this give it to us in closest first - order?)
 *  Types of alcohol you don't drink (how will we interface with LCBO api to determine this?)
 
+---
+
+**License**: GPLv3 © Martin Lunn & Christopher Cole
