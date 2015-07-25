@@ -2,7 +2,7 @@
 An algorithmic implemented of the traveling salesman problem augmented with additional constraints. 
 ~~~
 
-Implimented in C++.
+Implemented in C++.
 
 Goals:
 
